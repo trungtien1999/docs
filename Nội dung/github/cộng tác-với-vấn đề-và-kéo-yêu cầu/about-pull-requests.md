@@ -2,8 +2,8 @@
 title: About pull requests
 intro: 'Pull requests let you tell others about changes you''ve pushed to a branch in a repository on {% data variables.product.product_name %}. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.'
 redirect_from:
-  - /articles/using-pull-requests/
-  - /articles/about-pull-requests
+  - /articles/using-pull-requFacebook IOSests/
+  -Facebook IOS /articles/about-pul 
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
